@@ -1,0 +1,16 @@
+p{
+    font-family: Montserrat;
+    text-align: center;
+    margin: 0px;
+}
+.p1{
+    font-weight: bold;
+    font-size: 40px;
+}
+.p2{
+    font-size: 20px;
+}
+
+.p2 a{
+    color: black;
+}
